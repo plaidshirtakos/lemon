@@ -1,6 +1,8 @@
 # lemon
 A Spring boot blog application.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Requirements
 ### Java
 * [Spring Boot](https://projects.spring.io/spring-boot/)
